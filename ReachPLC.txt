@@ -15,9 +15,7 @@
 # to keep the block listing in the hosts file and not to remove it
 #https://raw.githubusercontent.com/2E0WKS/pihole-blocklist-ReachPLC/master/ReachPLC.txt
 ############################################
-
-	#ip 52.18.48.57, 52.30.65.147
-	
+#ip 52.18.48.57, 52.30.65.147
 0.0.0.0	3am.co.uk
 0.0.0.0	3am.com
 0.0.0.0	3ambingoapp.com
@@ -608,9 +606,7 @@
 0.0.0.0	yateley-online.com
 0.0.0.0	yateleynews.co.uk
 0.0.0.0	yourvale.co.uk
-	
-0.0.0.0	# 34.240.44.171, 52.49.0.63
-0.0.0.0	acadvertiser.co.uk
+0.0.0.0	acadvertiser.co.uk #34.240.44.171, 52.49.0.63
 0.0.0.0	ayrshirepost.co.uk
 0.0.0.0	ayrshirepost.net
 0.0.0.0	bathchronicle.co.uk
@@ -669,9 +665,7 @@
 0.0.0.0	uxbridgegazette.co.uk
 0.0.0.0	wirralnews.co.uk
 0.0.0.0	wishawpress.co.uk
-0.0.0.0	
-0.0.0.0	#  52.210.167.95, 54.74.68.148
-0.0.0.0	accringtonobserver.co.uk
+0.0.0.0	accringtonobserver.co.uk #  52.210.167.95, 54.74.68.148
 0.0.0.0	belfastlive.co.uk
 0.0.0.0	birminghammail.co.uk
 0.0.0.0	bristolpost.co.uk

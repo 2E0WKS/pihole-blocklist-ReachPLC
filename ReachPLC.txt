@@ -1,5 +1,5 @@
 ############################################
-# 52.18.48.57, 52.30.65.147 are reach servers and list pulled from  https://viewdns.info/reverseip/ 23/01/22
+#  reach servers and list pulled from  https://viewdns.info/reverseip/ 23/01/22
 # Add these entries below to your hosts file
 #
 # Your hosts file Location:
@@ -669,3 +669,45 @@ usvsth3m.com
 uxbridgegazette.co.uk
 wirralnews.co.uk
 wishawpress.co.uk
+
+#  52.210.167.95, 54.74.68.148
+accringtonobserver.co.uk
+belfastlive.co.uk
+birminghammail.co.uk
+bristolpost.co.uk
+burtonmail.co.uk
+business-live.co.uk
+buzz.ie
+cambridge-news.co.uk
+chesterchronicle.co.uk
+coventrytelegraph.net
+crewechronicle.co.uk
+dailypost.co.uk
+dailyrecord.co.uk
+dailystar.co.uk
+devonlive.com
+dublinlive.ie
+edinburghlive.co.uk
+examiner.co.uk
+footballscotland.co.uk
+gazettelive.co.uk
+getreading.co.uk
+getsurrey.co.uk
+getwestlondon.co.uk
+glasgowlive.co.uk
+gloucestershirelive.co.uk
+insider.co.uk
+irishmirror.ie
+leeds-live.co.uk
+liverpool.com
+liverpoolecho.co.uk
+manchestereveningnews.co.uk
+mirror.co.uk
+mylondon.news
+norfolklive.co.uk
+nottinghampost.com
+ok.co.uk
+scottishdailyexpress.co.uk
+staffordshire-live.co.uk
+suffolklive.com
+walesonline.co.uk

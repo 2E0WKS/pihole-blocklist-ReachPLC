@@ -13,7 +13,7 @@
 # On Windows 7 and higher, the default AV security scan will try to remove the
 # facebook.com entry; you'll need to add an exception to tell the OS
 # to keep the block listing in the hosts file and not to remove it
-#
+#https://raw.githubusercontent.com/2E0WKS/pihole-blocklist-ReachPLC/master/ReachPLC.txt
 ############################################
 
 	#ip 52.18.48.57, 52.30.65.147
